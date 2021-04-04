@@ -1,0 +1,14 @@
+ @font-face {
+      position: absolute;
+  width: 72px;
+  height: 17px;
+  left: 103.56px;
+  top: 465.22px;
+  
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+
+ }
